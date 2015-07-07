@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="grid_item_label" type="id">test</item>
+    <item name="fondvue2" type="color">#ff231208</item>
+    <item name="black" type="color">#ff000000</item>
+    <item name="boutoncolor" type="color">#ffb2b2b2</item>
+</resources>

@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/home"
+        android:icon="@mipmap/imuseum"
+        android:title="@string/home"
+        yourapp:showAsAction="always"/>
+    <item
+    android:id="@+id/gi"
+    android:icon="@mipmap/igi"
+    android:title="@string/gi"
+    yourapp:showAsAction="always"/>
+
+    <item
+        android:id="@+id/event"
+        android:icon="@mipmap/ievent"
+        android:title="@string/event"
+        yourapp:showAsAction="always"/>
+    <item
+        android:id="@+id/tour"
+        android:icon="@mipmap/itour"
+        android:title="@string/tour"
+        yourapp:showAsAction="always"/>
+    <item
+        android:id="@+id/info"
+        android:icon="@mipmap/iinfo"
+        android:title="@string/info"
+        yourapp:showAsAction="always"/>
+
+</menu>

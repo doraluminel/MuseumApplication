@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <color name="backgroundbutton">#fff0dcbc</color>
+    <color name="translucide">#00000000</color>
+    <color name="grey">#fd4b464c</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green">#4499CC00</color>
+    <color name="darkgreen">#FF669900</color>
+</resources>

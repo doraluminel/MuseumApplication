@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <ImageView
+        android:id="@+id/fondvue4"
+        android:src="@mipmap/quatre"
+        android:layout_width="500dp"
+        android:layout_height="350dp"
+        android:layout_gravity="center"/>
+    <Button
+        android:text="Select audio by number(QRcode)"
+        android:id="@+id/qrcode"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <Button
+        android:text="Browse by floor(WIFI geolocalisation)"
+        android:id="@+id/floor"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <Button
+        android:text="Visitors with disabilities(WIFI geolocalisation)"
+        android:id="@+id/floordisab"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout>
